@@ -1,1 +1,2 @@
 # SQL-PROJECTS
+The projects in this respiratory showcase my proficiency in SQL. Deploying methods that may be require by businesses, even startups to analyse and data available. Many of the SQL queries used are CREATE TABLE, SELECT, INSERT, JOIN and even advanced SQL methods like CTEs, VIEWS, WINDOW FUNCTIONS that serves as ways to interract with databases and develop meaningful insights, trends and patterns.
